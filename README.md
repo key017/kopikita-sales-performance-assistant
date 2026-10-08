@@ -23,6 +23,22 @@ The goal is to provide a single interface where management can monitor sales per
 
 ---
 
+## Project Preview
+
+### Sales Performance Dashboard
+
+![KopiKita Sales Performance Dashboard](assets/dashboard_preview.png)
+
+### AI Sales Assistant
+
+![KopiKita AI Sales Assistant](assets/ai_assistant.png)
+
+### Time Analysis
+
+![KopiKita Time Analysis](assets/time_analysis.png)
+
+---
+
 ## Problem Statement
 
 Raw transactional sales data can contain valuable business information, but analyzing thousands of transactions manually can be time-consuming and difficult for non-technical users.
