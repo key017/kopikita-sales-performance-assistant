@@ -2,7 +2,7 @@
 
 > AI-powered sales performance dashboard and business assistant for KopiKita.
 
-🚀 **Live Demo:** [Open KopiKita AI Sales Assistant]([https://kopikita-sales-performance-assistant.streamlit.app/])
+🚀 **Live Demo:** [Open KopiKita AI Sales Assistant](https://kopikita-sales-performance-assistant.streamlit.app/)
 
 📂 **Source Code:** [GitHub Repository](https://github.com/key017/kopikita-sales-performance-assistant)
 AI-powered sales performance dashboard and business intelligence assistant designed to help management understand sales performance through interactive analytics, business insights, alerts, and natural-language AI assistance.
